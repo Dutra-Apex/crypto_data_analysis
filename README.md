@@ -1,6 +1,10 @@
 # Analyzing the crypto market landscape between 2018 and 2021
 
 The goal of this project is to, through data visualiztion, investigate the performance and usability of different cryptocurrencies. 
+
+An article going into a detailed analysis of each plot can be found here:
+https://medium.com/coinmonks/is-bitcoin-still-the-king-a-deep-dive-into-the-recent-crypto-landscape-2018-2021-1b849eb704fd
+
 The dataset being used is available at:
 https://www.kaggle.com/competitions/g-research-crypto-forecasting/data
 
